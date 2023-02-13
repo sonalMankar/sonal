@@ -2,3 +2,4 @@ Hello GIT
 Today's day is 10th feb
 today is thurday
 this is third lecture
+today is monday
